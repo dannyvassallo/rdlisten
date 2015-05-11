@@ -1,5 +1,5 @@
-body{
-  background-color: black;
+html, body {
+  height: 100%;
 }
 #masthead{
   text-align: center;
@@ -33,4 +33,7 @@ body{
 }
 .grid2{
   padding-bottom: 60px;
+}
+.grid-wrap{
+  background-color: black;
 }
